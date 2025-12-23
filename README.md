@@ -5,7 +5,7 @@
 
 &nbsp;hi
 
-<img alt="Night Coding" width=300px src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTg3MTlldDg1anluY3h5ZTlnYW5jZ2NhajB4NHl4a3pkOW9tM2UzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Zgy9QqzWU8C3ugvCa/giphy.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -19,7 +19,7 @@
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alejandro-valero&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alejandro-valero&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alejandro-valero&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
