@@ -6,7 +6,7 @@
 🎓&nbsp;I'm a high school student going through my 10th grade.\
 😎&nbsp;I enjoy programming in C++, but for now I'm at the absolute beginner stage.\
 🌱&nbsp;I'm passionate about mathematics and computer science.\
-🐐&nbsp;My goal is to be the best version of myself.\
+🐐&nbsp;My goal is to be the best version of myself.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
