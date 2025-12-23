@@ -3,25 +3,24 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-😎&nbsp;I'm a high school student going through my 10th grade. I enjoy programming in C++ and maybe Python, but for now I'm at the absolute beginner stage.\
-&nbsp;hi\
-&nbsp;hi\
-&nbsp;hi\
-&nbsp;hi\
+🎓&nbsp;I'm a high school student going through my 10th grade.\
+😎&nbsp;I enjoy programming in C++, but for now I'm at the absolute beginner stage.\
+🌱&nbsp;I'm passionate about mathematics and computer science.\
+🐐&nbsp;My goal is to be the best version of myself.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;\
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/alejandro-valero">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alejandro-valero&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alejandro-valero&layout=compact&langs_count=8&theme=algolia"/>
 </a>
