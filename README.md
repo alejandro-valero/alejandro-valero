@@ -3,7 +3,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-&nbsp;hi
+😎&nbsp;I'm a high school student going through my 10th grade. I enjoy programming in C++ and maybe Python, but for now I'm at the absolute beginner stage.\
+&nbsp;hi\
+&nbsp;hi\
+&nbsp;hi\
+&nbsp;hi\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
