@@ -1,35 +1,16 @@
 <h1 align="center"><b>Hi , I'm Alejandro Valero </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  🚀</h1>
 <!--  -->
 
-### 👨🏻‍💻 &nbsp;About Me
+# 💫 About Me:
+🎓 I'm a high school student going through my 11th grade.<br>😎 I enjoy programming in Python, but for now I'm at the absolute beginner stage.<br>🌱 I'm passionate about mathematics and computer science.<br>🐐 My goal is to live well.
 
-🎓&nbsp;I'm a high school student going through my 10th grade.\
-😎&nbsp;I enjoy programming in C++, but for now I'm at the absolute beginner stage.\
-🌱&nbsp;I'm passionate about mathematics and computer science.\
-🐐&nbsp;My goal is to be the best version of myself.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alejandrovalero2323@gmail.com) 
 
-### 🛠 &nbsp;Tech Stack
-
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;\
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/alejandro-valero">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alejandro-valero&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alejandro-valero&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="alejandrovalero2323@gmail.com"><img src="https://img.shields.io/badge/-alejandrovalero2323@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
-
------
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=alejandro-valero&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=alejandro-valero&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=alejandro-valero&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
